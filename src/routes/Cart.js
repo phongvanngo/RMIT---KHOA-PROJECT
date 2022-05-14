@@ -7,7 +7,7 @@ export default function CartPage() {
   return (
     <div>
       <div className="body-container">
-        <h1>NO MORE LOOSE FIT CLOTHES</h1>
+        <h1>No more loose fit clothes</h1>
         <div
           style={{
             width: "100%",
